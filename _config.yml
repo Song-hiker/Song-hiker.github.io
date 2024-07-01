@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Know thyself"
   location         : "Switzerland"
-  employer         : "École polytechnique fédérale de Lausanne (EPFL)"
-  uri              :  [URL](https://www.epfl.ch/en/)
+  employer         : "EPFL"
+  uri              :  "https://www.epfl.ch/en/"
   email            : "song.chen@epfl.ch" 
 
   # Academic websites
