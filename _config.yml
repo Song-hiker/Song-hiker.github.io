@@ -21,13 +21,13 @@ repository               : "Song-hiker/Song-hiker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Song.png"
+  avatar           : "Song1.png"
   name             : "Song Chen"
   pronouns         : # example: "she/her"  
   bio              : "Know thyself"
   location         : "Switzerland"
   employer         : "École polytechnique fédérale de Lausanne (EPFL)"
-  uri              : # URL
+  uri              :  [URL](https://www.epfl.ch/en/)
   email            : "song.chen@epfl.ch" 
 
   # Academic websites
