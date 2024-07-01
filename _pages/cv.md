@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical biology, École polytechnique fédérale de Lausanne (EPFL), 2026 (expected)
+* M.S. in Organic synthesis, Southern University of Science and Technology (SUSTech), 2022
+* B.S. in Applied chemistry, Central South University (CSU), 2019
 
 Work experience
 ======
