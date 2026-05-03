@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Try to know myself"
   location         : "Berlin, Germany"
-  employer         : [The Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)](https://leibniz-fmp.de/)
-  #uri              :  "https://leibniz-fmp.de/"
+  employer         : "The Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)"
+  uri              : "https://leibniz-fmp.de/"
   email            : "Schen@fmp-berlin.de" 
 
   # Academic websites
