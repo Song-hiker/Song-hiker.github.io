@@ -1,6 +1,6 @@
 ---
 title: "Moments"
-layout: collection
+layout: single
 permalink: /Moments/
 collection: Moments
 author_profile: true
