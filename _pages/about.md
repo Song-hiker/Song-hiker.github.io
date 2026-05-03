@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "关于我"
+excerpt: "欢迎来到我的主页，在这里我记录了生活中精彩 惊讶 神奇 压抑 痛苦 平淡 高兴及无聊的各个瞬间，通过它们，我来认识自己"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a PhD candidate at [The Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)]((https://leibniz-fmp.de/institute/staff/detail/SongChen-1062)). My research mainly focuses on introducing deuterium for next-generation chemical biology probes, and my interest of molecules includes azobenzene, methylene blue, porphyrin, etc.
+小镇做题家本人，从小乡村一路走来，但我并没有值得大吹特吹的经历，也没有励志的科研达人故事，更不会逆天改命（也许需要时间验证，who knows）
+但我很高兴能走到现在，曲曲折折地也看了不少地方，没有特别的擅长，也没有坚持很久的爱好（希望能够保持健身的习惯，今年准备去100次健身房，在我打字的今天将会是第32次，今天星期天 我来加班了，还碰到了组里的技术员和她的两个小孩儿）
 
-I studied organic chemistry and obtained my M.Sc. under the supervision of [Prof. Bin Tan](https://www.sustech.edu.cn/en/faculties/english-bin-tan.html) and [Prof. Shaoyu Li](https://yyhg.tzc.edu.cn/info/1095/5900.htm) at Southern University of Science and Technology (SUSTech) in China, from 2019 to 2022. After that, I had an interest in chemical biology, which led me to spend two years at EPFL in Lausanne, Switzerland. In October 2024, I started my Ph.D. at FMP with [Dr. Johannes Broichhagen](https://leibniz-fmp.de/research/research-section/chemical-biology/johannes-broichhagen) to investigate deuterated chemical biology probes.
+但我也许有点喜欢写作，虽然从来没有写过超过40分的作文（满分50），语文经常也是考的西撇（高考将将100分（满分150）），但总是想写一些东西，想记录一些东西，就是记录生活 流水账式的记录就很好，也许是因为我记性很差，因为我经常陷入无聊（做事效率还挺高的 所以空闲时间还挺多，虽然旁人一直觉得我很忙）
+anyway所以就是这样+_+
 
 
