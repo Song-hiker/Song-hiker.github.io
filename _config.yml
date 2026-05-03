@@ -208,7 +208,7 @@ collections:
     permalink: /:collection/:path/
   Moments:
     output: true
-    permalink: /:Moments/:path/
+    permalink: /Moments/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
