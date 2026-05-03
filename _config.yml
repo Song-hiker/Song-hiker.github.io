@@ -24,11 +24,11 @@ author:
   avatar           : "Song1.png"
   name             : "Song Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Know thyself"
-  location         : "Switzerland"
-  employer         : [EPFL](https://www.epfl.ch/en/)
-  #uri              :  "https://www.epfl.ch/en/"
-  email            : "song.chen@epfl.ch" 
+  bio              : "Try to know myself"
+  location         : "Berlin, Germany"
+  employer         : [The Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)](https://leibniz-fmp.de/)
+  #uri              :  "https://leibniz-fmp.de/"
+  email            : "Schen@fmp-berlin.de" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
